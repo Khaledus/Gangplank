@@ -1,0 +1,105 @@
+/*Formatação padrão*/
+body {
+	background: rgb(25, 56, 48);
+	margin: auto;
+	
+}
+img {
+	padding: 10px;
+	margin: auto;
+	width: 860px;
+	height: 550px;
+	display: block;
+}
+#logo {
+	background-image:url(../img/Gangplank2.png);
+	margin: 0px;
+	padding: 20px;
+}
+/*Formatação do menu*/
+#menu {
+	background-color:rgb(0, 0, 0);
+	padding: 20px;
+	text-align: center;
+}
+a {
+	color:rgb(211, 216, 184);
+	text-decoration: none;
+	padding: 20px;
+	margin: 20px;
+}
+a:link, a:visited {
+	color:rgb(211, 216, 184);
+}
+a:hover {
+	text-decoration: underline;
+}
+.habilidade {
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	margin: auto;
+}
+/*Formatação textos */
+#sangue-agua {
+	margin: 4px;
+}
+#sangue-agua img {
+	height: 300px;
+	width: 500px;
+}
+#skins{
+	padding: 1px;
+}
+
+.lore {
+	margin: 4px;
+}
+.lore img {
+	width: 600px;
+	height: 340px;
+	padding: 10px;
+}
+#imagem{
+	height: 300px;
+	width: 400px;
+}
+#nome {
+	float: left;
+}
+p {
+	color:rgb(211, 216, 184);
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	padding: 5px;
+	margin: 5px;
+	
+}
+blockquote {
+	margin: 10px;
+	color:rgb(211, 216, 184);
+	text-align: center;
+	font-size: 20px;
+}
+h1 {
+	text-align: center;
+	color:rgb(118, 129, 58);
+}
+h3 {
+	color:rgb(211, 216, 184);
+	font-size: 24px;
+	font-family: Beaufort for LOL;
+	padding: 10px;
+	text-align: center;
+}
+.titulo {
+	color:rgb(211, 216, 184);
+	font-size: 24px;
+}
+ul li {
+	color:rgb(211, 216, 184);
+	list-style-type:none;
+	font-size: 1em;
+}
+
+	
+	
